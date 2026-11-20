@@ -3,14 +3,17 @@
 🌐 **Live Demo:** [https://widiru83.github.io/project-desk-demo/](https://widiru83.github.io/project-desk-demo/)
 
 Selamat datang di **Project Desk Web Interactive Demo**!  
-Repositori ini menyajikan versi pratinjau web interaktif langsung dari **Project Desk v1.2.5** (Personal PMO Desktop Suite).
+Repositori ini menyajikan versi pratinjau web interaktif langsung dari **Project Desk v1.2.5** (Personal PMO Desktop Suite) yang **100% responsif di desktop, tablet, maupun perangkat seluler (smartphone / mobile)**.
 
 ---
 
 ### ✨ Fitur Unggulan di Mode Demo
 - **Bebas Login:** Langsung jelajahi seluruh workspace PMO tanpa hambatan autentikasi.
-- **Penyimpanan Lokal (Offline-First di Browser):** Semua perubahan data (buat tugas, edit tanggal, tambah risiko, catat biaya) tersimpan di `localStorage` peramban lokal Anda.
-- **Qwen PMO Copilot AI:** Asisten AI terintegrasi untuk analisis jadwal, Kurva S, mitigasi risiko, dan estimasi biaya instan.
+- **Desain Responsif Modern:**
+  - 📱 **Mobile-Optimized:** Dilengkapi navigasi slide-over drawer dan quick bottom tab bar untuk kemudahan navigasi satu jempol pada layar smartphone.
+  - 💻 **Desktop & Tablet:** Tampilan multi-kolom luas dengan tabel WBS hirarkis dan chart interaktif.
+- **Penyimpanan Lokal (Offline-First di Browser):** Semua perubahan data tersimpan mandiri di `localStorage` peramban lokal Anda.
+- **Qwen PMO Copilot AI:** Asisten AI terintegrasi untuk analisis jadwal, Kurva S, mitigasi risiko, dan estimasi biaya instan langsung di peramban.
 - **Full PMO Suite:**
   - 📊 Portofolio Proyek Terpadu (Multi-Project Oversight)
   - 📅 Gantt Chart Interaktif & Critical Path Method (CPM)
