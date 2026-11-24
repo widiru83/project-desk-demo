@@ -2,7 +2,9 @@
 <html lang="id">
   <head>
     <meta charset="UTF-8" />
-    <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob: https:; connect-src 'self'; font-src 'self' data:;" />
+    <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' https://www.googletagmanager.com; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob: https:; connect-src 'self' https://*.google-analytics.com https://*.analytics.google.com https://www.googletagmanager.com; font-src 'self' data:;" />
+    <script src="./analytics.js"></script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-18KECCD1C2"></script>
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Project Desk — Personal PMO Suite</title>
     <meta name="description" content="Aplikasi Personal PMO 100% Offline: Kelola WBS, Gantt CPM, Kurva S EVM, Change Request, dan AI Copilot mandiri tanpa internet dan tanpa biaya token." />
