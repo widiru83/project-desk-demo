@@ -1,0 +1,26 @@
+{
+  "name": "Project Desk Web Edition",
+  "short_name": "Project Desk",
+  "description": "Offline-first Personal PMO Suite: WBS, Gantt CPM, S-Curve EVM, Risk Register, Cost & AI Copilot.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#020617",
+  "theme_color": "#0f172a",
+  "categories": ["productivity", "business"],
+  "icons": [
+    {
+      "src": "./pwa-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./pwa-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
